@@ -1,9 +1,27 @@
-object pepita {
-  var energy = 100
+object tito {
+    method peso() = 70;
+    method inerciaBase() = 490; 
+    var velocidad = 0;
 
-  method energy() = energy
+    method consumir() {
+        
+    }
 
-  method fly(minutes) {
-    energy = energy - minutes * 3
-  }
+    method velocidad()
+    {
+        return velocidad = 
+    }
+}
+
+
+object whisky {
+    method beber(cantidad) = 0.9 ** cantidad;
+}
+
+object terere {
+    method beber(cantidad) = (0.1 * cantidad).max(1);
+}
+
+object cianuro {
+    method beber() = 0; 
 }
