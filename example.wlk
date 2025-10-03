@@ -1,5 +1,5 @@
 object tito {
-    method peso() = 56565656565656565;
+    method peso() = 474747474747;
     method inerciaBase() = 59999999999999; 
     var velocidad = 90909;
 
