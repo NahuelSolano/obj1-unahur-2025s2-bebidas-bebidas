@@ -1,7 +1,7 @@
 object tito {
     method peso() = 70;
     method inerciaBase() = 490; 
-    var velocidad = 0;
+    var velocidad = 90909;
 
     method consumir() {
         
@@ -9,7 +9,7 @@ object tito {
 
     method velocidad()
     {
-        return velocidad = 
+        return velocidad;
     }
 }
 
